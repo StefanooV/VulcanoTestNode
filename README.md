@@ -29,7 +29,7 @@ Este proyecto fue desarrollado como parte de una prueba técnica para Vulcano. S
 
 Para realizar pruebas en la API, puedes importar la colección en Postman desde el siguiente enlace:
 
-- [https://www.postman.com/utn-appintegral/vulcanotest/collection/npruup3/vulcanonode?action=share&creator=38093841](https://www.postman.com/utn-appintegral/vulcanotest/collection/npruup3/vulcanonode?action=share&creator=38093841)
+- [https://www.postman.com/utn-appintegral/vulcanotest/folder/j04gdng/usuarios?action=share&creator=38093841&ctx=documentation](https://www.postman.com/utn-appintegral/vulcanotest/folder/j04gdng/usuarios?action=share&creator=38093841&ctx=documentation)
 
 Esta colección contiene todos los endpoints con ejemplos y documentación sobre los datos de entrada y las respuestas esperadas para cada endpoint de la API.
 
